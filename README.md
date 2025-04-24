@@ -11,10 +11,10 @@ Welcome to **CareerPath**, a Django-powered job portal where employers post job 
 ## 🖼️ Preview
 
 ### 🔐 Login Page
-![Login Screenshot](https://raw.githubusercontent.com/Bhargav-Naidu-29/job_portal/main/screenshots/login.png)
+![Login Screenshot]([https://raw.githubusercontent.com/Bhargav-Naidu-29/job_portal/main/screenshots/login.png](https://media-hosting.imagekit.io/1c023faf957747e5/Screenshot%202025-04-25%20014017.png?Expires=1840139482&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=l8xLW4lr6XX5XXpDOLYHFzhhvkqRWxV4jMCvyoWNylEEvn9Hmm5nVnRmzKHFamCWbi-NBWWDdunil6o8LqIr~TspEOrXsCplIINnV-ZSzQtrRdEubJ5Mrqzq3H-yB3WWCv2Z5qhZVqhB-Rb-EZexZZvJ94NsGHH3sBTmd3mrkX-MntCHUORkXEFaAhH1WHjjchszfHwFkiL9~72gPwKrLwK2eJm9XyP-d5bY1IR68zKbuvPlRs2b2DTAffk6-O3SZPSSbgEySZLcxICV1X5SyJb3lbnKoN2MxhV5LZjsnTjM83IL749n-WLsN-liN-eNX7yBke6wC5JAK2oEguIbyQ__))
 
-### 📝 Recruiter Registration
-![HR Registration Screenshot](https://raw.githubusercontent.com/Bhargav-Naidu-29/job_portal/main/screenshots/hr_register.png)
+### 📝 Registeration Page
+![HR Registration Screenshot](https://media-hosting.imagekit.io/861a1b682fb3429c/Screenshot%202025-04-25%20014201.png?Expires=1840139482&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=x9jDNm8mabOVU3GPJhtsY5MNLCfB8v0NEudY~myCd0~dTvYXRvg1Hc2CUXJY5uoNUjFAseQeE63AuuphNY-cuRX6GYixA7gxQ9ixOoXnBmn-TtdFOUD3f9sY9-gPDNZqQckSEg7pq2oykSNzoYhfjkaKrk32q4KLBfDb6PDTYdNjiiv9nMbFDa3rwMtgcSwXxJ8A2BAA3W4r-IiST21NYsZ-t1q1w7MolFqBb-wFcY59BQla7Nj2JsvpKylbLzKHYKpzTd3UBUzF~Rrqt6vfbxP1nXYbanvQ7N4rlGZ6eaopOYAd4kfIQNWRpeQgnyYXRiTfXb7HUnzbq8LkUqTePg__)
 
 ---
 
@@ -128,10 +128,3 @@ Contributions are welcome! If you'd like to improve something, feel free to open
 
 ---
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-If you'd like, I can also add a `/screenshots` directory to your GitHub repository with these two images and update the markdown links accordingly. Just upload them here and I’ll help with that too.
