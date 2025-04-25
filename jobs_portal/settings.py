@@ -79,11 +79,14 @@ WSGI_APPLICATION = 'jobs_portal.wsgi.application'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
 DATABASES = {
-    'default': dj_database_url.config(
-        default=f'sqlite:///{os.path.join(BASE_DIR, "db.sqlite3")}',
-        conn_max_age=600,
-        ssl_require=False
-    )
+    'default': {
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'postgres',
+        'USER': 'postgres.kwilzlkmtcujncdvftdt',
+        'PASSWORD': 'J8tI9fpbQ1MzH84D',  # Replace with actual password
+        'HOST': 'aws-0-us-east-2.pooler.supabase.com',
+        'PORT': '5432',
+    }
 }
 
 # DATABASES = {
