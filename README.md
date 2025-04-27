@@ -34,7 +34,7 @@ ___
 |------------|-----------------------------|
 | Django     | Backend web framework       |
 | HTML/CSS   | Frontend design             |
-| SQLite     | Default relational database |
+| PostgreSql     | Relational database Management |
 | Vercel     | Deployment platform         |
 
 ---
